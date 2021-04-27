@@ -1,0 +1,13 @@
+.idea
+.pub
+.dart_tool
+build
+tmp
+log
+media
+.packages
+pubspec.lock
+config/centryl-nginx
+config/nvmo_cred.json
+config/config.yaml
+back.sh

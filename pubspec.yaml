@@ -1,0 +1,12 @@
+name: worker_stage
+author: George Malakov employee
+
+environment:
+  sdk: '>=2.8.0 <3.0.0'
+
+dependencies:
+  intl: any
+
+dev_dependencies:
+  build_runner: ^1.10.1
+  build_web_compilers: any
